@@ -1,0 +1,4 @@
+baseURL: https://jcoz00.github.io
+disablePathToLower: true
+languageCode: en-us
+title: My New Hugo Site
